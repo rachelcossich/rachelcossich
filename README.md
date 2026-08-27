@@ -1,6 +1,6 @@
 Hello World! Rachel Speaking...
 
-- QA Analist coming from almost 10 years teaching English
+- QA Analist coming from 15 years teaching English
 - I’m interested in Self-Development, Games and Books
 - 🌱 I’m currently learning Automated Tests, Python and getting my System Development and Analysis degree
 - 📫 You can reach me on rachelcnsantos@outlook.com
